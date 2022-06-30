@@ -1,0 +1,7 @@
+-cp res
+-cp src
+
+res.RES_HERO
+
+# -cpp res
+-lua res/res_hero.lua
